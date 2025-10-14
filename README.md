@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-A passionate developer exploring the world while coding 🌍✨
+Coffee lover ☕, developer with peaceful perspective 🌍, building accessible and scalable web apps 💻✨
+
 
 ![Typing GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdyZ290dGJqZ2xodHV3NGRoZ3BwbnFvaW5iZWlsdm9tMHk5OWFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
-
-
-
 
 
 🌍 About Me
