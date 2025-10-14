@@ -2,6 +2,11 @@
 
 A passionate developer exploring the world while coding 🌍✨
 
+![Typing GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdyZ290dGJqZ2xodHV3NGRoZ3BwbnFvaW5iZWlsdm9tMHk5OWFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+
+
+
 
 🌍 About Me
 
@@ -12,7 +17,4 @@ Interests: Open-source projects, web development, AI and DIY tools like custom l
 
 
 📫 Let's Connect
-
-🌐 [Portfolio/Website] (Add your link here!)
-🐦 [Twitter/X] (@yourhandle)
-📧 Email: moustyb@example.com (Update with yours)
+📧 Email: mbay.dev@gmail.com
