@@ -32,6 +32,23 @@ Coffee lover ☕, developer with peaceful perspective 🌍, building accessible 
 ![Typing GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdyZ290dGJqZ2xodHV3NGRoZ3BwbnFvaW5iZWlsdm9tMHk5OWFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=moustyb&show_icons=true&theme=radical)                            ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moustyb&layout=compact&theme=radical)
+
+
+
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moustyb&theme=react-dark)
+
+
+
+
+## 🧩 More Training Projects
+ 
+- 🎉 [CO₂ Savings Calculator](https://github.com/your-repo) — Modular dashboard with celebration banners and copy-ready savings estimates
+- 📊 [Open-Source License Explorer](https://github.com/your-repo) — Compare MIT, GPL, AGPL for SaaS viability
+- 🛠️ [Link-in-Bio Builder](https://github.com/your-repo) — DIY tool with scenario-driven UX and onboarding flow
+
+
+
 🌍 About Me
 
 Location: Worldwide 🌴
