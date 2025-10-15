@@ -1,8 +1,20 @@
-## Hi there 👋
+## Hello World 👋
 
 Coffee lover ☕, developer with peaceful perspective 🌍, building accessible and scalable web apps 💻✨
 
-My favorite Programming languages
+
+
+  <h2 style="color:#00ffff; font-size:24px;">🚀 My Motivation Quotes</h2>
+
+  <p>💡 <strong>"First, solve the problem. Then, write the code."</strong> — <em>John Johnson</em></p>
+  <p>🏁 <strong>"The best way to get a project done faster is to start sooner."</strong> — <em>Jim Highsmith</em></p>
+  <p>📘 <strong>"Good code is its own best documentation."</strong> — <em>Steve McConnell</em></p>
+  <p>🔥 <strong>"I have not failed. I've just found 10,000 ways that won't work."</strong> — <em>Thomas Edison</em></p>
+  <p>💪 <strong>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</strong> — <em>Thomas Edison</em></p>
+
+
+
+**My favorite Programming languages**
 
 
 <img width="64" height="64" alt="html-5 (2)" src="https://github.com/user-attachments/assets/d505428f-e63d-4445-97ae-06902a607725" />
@@ -13,6 +25,7 @@ My favorite Programming languages
 
 
 <img width="64" height="64" alt="python" src="https://github.com/user-attachments/assets/91860511-7421-4393-865e-dc30ddec5f95" />
+
 
 
 
