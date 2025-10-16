@@ -43,7 +43,7 @@ Coffee lover ☕, developer with peaceful perspective 🌍, building accessible 
 
 ## 🧩 More Training Projects
  
-- 🎉 [CO₂ Savings Calculator](https://github.com/your-repo) — Modular dashboard with celebration banners and copy-ready savings estimates
+- 🎉 [CO₂ Savings Calculator](https://github.com/moustyb/CO2) Calculator Modular dashboard with celebration banners and copy-ready savings estimates
 - 📊 [Open-Source License Explorer](https://github.com/your-repo) — Compare MIT, GPL, AGPL for SaaS viability
 - 🛠️ [Link-in-Bio Builder](https://github.com/your-repo) — DIY tool with scenario-driven UX and onboarding flow
 
