@@ -44,7 +44,8 @@ https://github.com/moustyb/CO2-Calculator
 ## 🧩 More Training Projects
  
 - 🎉 [CO₂ Savings Calculator](https://github.com/moustyb/CO2-Calculator) Modular dashboard with celebration banners and copy-ready savings estimates
-- 📊 [Open-Source License Explorer](https://github.com/your-repo) — Compare MIT, GPL, AGPL for SaaS viability
+- 📊 [to-do-list](https://github.com/todolist25) to do list
+
 - 🛠️ [Link-in-Bio Builder](https://github.com/your-repo) — DIY tool with scenario-driven UX and onboarding flow
 
 
