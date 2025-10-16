@@ -39,14 +39,41 @@ Coffee lover ☕, developer with peaceful perspective 🌍, building accessible 
 ![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moustyb&theme=react-dark)
 
 
-https://github.com/moustyb/CO2-Calculator
-
-## 🧩 More Training Projects
  
-- 🎉 [CO₂ Savings Calculator](https://github.com/moustyb/CO2-Calculator) Modular dashboard with celebration banners and copy-ready savings estimates
-- 📊 [to-do-list](https://github.com/todolist25) to do list
+## 🧩 More Training Projects
 
-- 🛠️ [Link-in-Bio Builder](https://github.com/your-repo) — DIY tool with scenario-driven UX and onboarding flow
+1. [nCalculator 1.0 for Kids](https://github.com/moustyb/nCalculator-1.0-for-kids)  
+   ✨ A simple, colorful calculator with gradient buttons, keyboard support, and error handling — built with HTML, CSS, and JavaScript.
+
+2. [To‑Dos](https://github.com/moustyb/todos)  
+   📝 Beginner‑friendly to‑do list app for practicing DOM manipulation and clean UI design.
+
+3. [To‑Do List](https://github.com/todolist25)  
+   📊 Minimalist task manager experiment.
+
+4. [50 States Quiz App](https://github.com/moustyb/50states.Quiz.app)  
+   🇺🇸 Flashcard‑style trivia game with 50 unique state questions, score tracking, and emoji feedback.
+
+5. [Kanban Extension](https://github.com/moustyb/kanban-extension)  
+   🗂️ Lightweight browser extension with drag‑and‑drop Kanban boards (Backlog, In Progress, Done).
+
+6. [New Calculator 25](https://github.com/moustyb/new_calculator_25)  
+   ➗ Another iteration on calculator design, refining UI and logic.
+
+7. [CO₂ Savings Calculator](https://github.com/moustyb/CO2-Calculator)  
+   🎉 Modular dashboard that estimates carbon savings, with celebration banners and copy‑ready results.
+
+8. [Weather App v2](https://github.com/moustyb/weather.App.v2)  
+   🌦️ Clean weather dashboard pulling live data from APIs.
+
+9. [To‑Do List Template for Notion](https://github.com/moustyb/to-do-list-template-for-notion)  
+   📐 Pre‑built Notion template for structured task management.
+
+10. [My Little Link Test 25](https://github.com/moustyb/mylittlelink_test_25)  
+   🔗 A micro‑link‑sharing experiment.
+
+    
+
 
 
 
