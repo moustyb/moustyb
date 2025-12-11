@@ -1,5 +1,10 @@
 ## Hello World 👋
 
+🌍 About Me
+
+Location: Worldwide 🌴
+Currently: On vacation, but always tinkering with code!
+Interests: Open-source projects, web development, AI and DIY tools like custom link-in-bio pages.
 Coffee lover ☕, developer with peaceful perspective 🌍, building accessible and scalable web apps 💻✨
 
 
@@ -77,11 +82,6 @@ Coffee lover ☕, developer with peaceful perspective 🌍, building accessible 
 
 
 
-🌍 About Me
-
-Location: Worldwide 🌴
-Currently: On vacation, but always tinkering with code!
-Interests: Open-source projects, web development, AI and DIY tools like custom link-in-bio pages.
 
 
 
