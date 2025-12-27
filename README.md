@@ -37,9 +37,6 @@ Coffee lover ☕, developer with peaceful perspective 🌍, building accessible 
 ![Typing GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdyZ290dGJqZ2xodHV3NGRoZ3BwbnFvaW5iZWlsdm9tMHk5OWFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=moustyb&show_icons=true&theme=radical)                            
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moustyb&layout=compact&theme=radical)
 
 
 
