@@ -7,6 +7,9 @@ Currently: On vacation, but always tinkering with code!
 Interests: Open-source projects, web development, AI and DIY tools like custom link-in-bio pages.
 Coffee lover ☕, developer with peaceful perspective 🌍, building accessible and scalable web apps 💻✨
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moustyb&label=PROFILE+VIEWS&color=0078D4&style=flat" alt="profile views"/>
+</p>
 
 
   <h2 style="color:#00ffff; font-size:24px;">🚀 My Motivation Quotes</h2>
